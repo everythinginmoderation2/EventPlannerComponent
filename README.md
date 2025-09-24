@@ -1,6 +1,6 @@
 # EventPlannerComponent
 
-This project is a **React-based landing page** that can be resued and styled for organizations that plan both personal and corporate events.  
+This project is a **React-based landing page** that can be reused and styled for organizations that plan both personal and corporate events.  
 It demonstrates how to structure and build a modular React component called **EventPlanner**, which is composed of multiple sections such as:
 
 - Application description  
