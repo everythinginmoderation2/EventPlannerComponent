@@ -50,10 +50,10 @@ After completing this lab, I am able to:
 
 ## Future Enhancements
 
--Add backend integration for the contact form.
--Expand categories and testimonials from a live API.
--Improve accessibility (ARIA attributes).
--Add unit tests for components.
+- Add backend integration for the contact form.
+- Expand categories and testimonials from a live API.
+- Improve accessibility (ARIA attributes).
+- Add unit tests for components.
 
 ## Future Enhancements
 This project is licensed under the Apache 2.0 License.
