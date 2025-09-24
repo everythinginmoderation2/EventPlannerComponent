@@ -49,14 +49,49 @@ const EventPlanner = () => {
                     </section>
                 </section>
                 <section className="features">
-                    
-
+                    {/* Section heading */}
+                    <h2>Features</h2>
+                    {/* List of key platform features */}
+                    <ul>
+                        <li>Easy event creation and management</li>
+                        <li>Customizable event templates</li>
+                        <li>Guest list management</li>
+                        <li>Real-time collaboration</li>
+                        <li>Reminders and notifications</li>
+                    </ul>
                 </section>
                 <section className="testimonials">
-
+                    <section className="testimonials">
+                        {/* Section heading */}
+                        <h2>Testimonials</h2>
+                        {/* Individual testimonial block */}
+                        <div className="testimonial">
+                            <p>&quot;Event Planner made organizing my wedding a breeze. Highly recommended!&quot;</p>
+                            <p className="author">- Emily Johnson</p>
+                        </div>
+                        {/* Another testimonial block */}
+                        <div className="testimonial">
+                            <p>&quot;I use Event Planner for all my corporate events. It saves me so much time and effort!&quot;</p>
+                            <p className="author">- John Smith</p>
+                        </div>
+                    </section>
                 </section>
                 <section className="contact">
-
+                    <section className="contact">
+                        {/* Section heading */}
+                        <h2>Contact Us</h2>
+                        {/* Contact form */}
+                        <form>
+                            {/* Name input field */}
+                            <input type="text" placeholder="Name" />
+                            {/* Email input field */}
+                            <input type="email" placeholder="Email" />
+                            {/* Message textarea */}
+                            <textarea placeholder="Message"></textarea>
+                            {/* Submit button */}
+                            <button className="submit-button">Send</button>
+                        </form>
+                    </section>
                 </section>
             </header>
         </div>
